@@ -27,6 +27,7 @@ git clone https://github.com/xkazm04/vesting-sc
 ```bash
 cd vesting-sc
 cd sc
+cd sc
 ```
 
 Export generates csv file
